@@ -149,7 +149,7 @@ main{
 	background-color:aliceblue;
 }
 
-.card{
-	width:50%;
-	height:50%;
+.relative img {
+	width: 100px;
 }
+

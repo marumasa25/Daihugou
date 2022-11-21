@@ -12,7 +12,13 @@
 	<main>
 	<p class="field">場</p>
 	<div class="hand1">
-	<img src="images/card.jpg" class="card"></p>
+	<div class="relative">
+		<img src="images/card.jpg">
+		<img src="images/card.jpg">
+		<img src="images/card.jpg">
+		<img src="images/card.jpg">
+		<img src="images/card.jpg">
+	</div>
 	<p>手札2</p>
 	<p>手札3</p>
 	</div>
